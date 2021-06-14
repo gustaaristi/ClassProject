@@ -1,0 +1,328 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1052; Version 2004; 64bit' Language: 'es' Physical Memory: 8105 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Universidad/Programacion/Videojuegos/ClassProject/ClassProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54169
+Successfully changed project path to: D:/Universidad/Programacion/Videojuegos/ClassProject/ClassProject
+D:/Universidad/Programacion/Videojuegos/ClassProject/ClassProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 104.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Universidad/Programacion/Videojuegos/ClassProject/ClassProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.5126
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016949 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 99.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.486 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 112.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+HDRP Internally changed the storage of Cube Cookie to use Octahedral Projection inside the 2D Cookie Atlas. It is recommended that you increase the size of the 2D Cookie Atlas if your cookies no longer fit.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset/<>c:<.cctor>b__110_12 (UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset) (at Library/PackageCache/com.unity.render-pipelines.high-definition@10.4.0/Runtime/RenderPipeline/HDRenderPipelineAsset.Migration.cs:126)
+UnityEngine.Rendering.HighDefinition.MigrationStep`2<UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset/Version, UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset>:Migrate (UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset) (at Library/PackageCache/com.unity.render-pipelines.high-definition@10.4.0/Runtime/Core/Migration/MigrationStep.cs:52)
+UnityEngine.Rendering.HighDefinition.MigrationDescription`2<UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset/Version, UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset>:Migrate (UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset) (at Library/PackageCache/com.unity.render-pipelines.high-definition@10.4.0/Runtime/Core/Migration/MigrationDescription.cs:101)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@10.4.0/Runtime/RenderPipeline/HDRenderPipelineAsset.Migration.cs:146)
+UnityEngine.Rendering.GraphicsSettings:get_currentRenderPipeline ()
+UnityEditor.Rendering.HighDefinition.HDBakedReflectionSystem:Initialize () (at Library/PackageCache/com.unity.render-pipelines.high-definition@10.4.0/Editor/Lighting/Reflection/HDBakedReflectionSystem.cs:42)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@10.4.0/Runtime/RenderPipeline/HDRenderPipelineAsset.Migration.cs Line: 126)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.207 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+D3D shader create error for pixel shader [0x80070057]
+Refreshing native plugins compatible for Editor in 2.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3347 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 169.0 MB.
+System memory in use after: 169.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3806.
+Total: 6.675800 ms (FindLiveObjects: 0.938200 ms CreateObjectMapping: 0.515400 ms MarkObjects: 5.009900 ms  DeleteObjects: 0.207600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge02_Mat.mat
+  artifactKey: Guid(0cf7d47a45bcd864dba9d726d788a924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge02_Mat.mat using Guid(0cf7d47a45bcd864dba9d726d788a924) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launched and connected shader compiler UnityShaderCompiler.exe after 0.25 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+ -> (artifact id: 'ed0ebfdeb0006ce397da77c92b02551c') in 15.619720 seconds
+  Import took 15.667229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002712 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffBig03_Mat.mat
+  artifactKey: Guid(7abcaabf588cc994d9e779dedd12f1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffBig03_Mat.mat using Guid(7abcaabf588cc994d9e779dedd12f1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0110e331c95ea678d7d362292c59e17') in 0.192941 seconds
+  Import took 0.232832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffBig03.fbx
+  artifactKey: Guid(362e8229a15ec8740aca91e6ec290477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffBig03.fbx using Guid(362e8229a15ec8740aca91e6ec290477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5a5e2fe15ca58133773696aff53ebb') in 0.808254 seconds
+  Import took 0.822041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Albedo.tif
+  artifactKey: Guid(fd467bbf94d53bb499d3c3075cb021c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Albedo.tif using Guid(fd467bbf94d53bb499d3c3075cb021c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f35182e130d52aad2cde713e2f9ae5') in 0.056467 seconds
+  Import took 0.068711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffEdge02.fbx
+  artifactKey: Guid(0bbfe428d424d304b8e01a34fbfaa932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffEdge02.fbx using Guid(0bbfe428d424d304b8e01a34fbfaa932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56b0073a4297fb4aedcf4e33cbc3781') in 0.166031 seconds
+  Import took 0.176469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_Occlusion.tif
+  artifactKey: Guid(49652e51668454a4cbe0ceaeb6ea1f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_Occlusion.tif using Guid(49652e51668454a4cbe0ceaeb6ea1f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7c46840d358b50dfe4ba1ba9446d37') in 0.024813 seconds
+  Import took 0.031888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffBig01.fbx
+  artifactKey: Guid(843d122e5e84aa84db8a1036fe1d3dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffBig01.fbx using Guid(843d122e5e84aa84db8a1036fe1d3dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b31bdb4500b3b542b3d4199dc812044') in 0.258654 seconds
+  Import took 0.271018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffBig01_Mat.mat
+  artifactKey: Guid(3311bbf097e3ee64ebed88f09c6e5ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffBig01_Mat.mat using Guid(3311bbf097e3ee64ebed88f09c6e5ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1894d05711ef38f48b813f26adbaadeb') in 0.097976 seconds
+  Import took 0.109760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig02_Albedo.tif
+  artifactKey: Guid(e396811bc8a737244811455e213cb254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig02_Albedo.tif using Guid(e396811bc8a737244811455e213cb254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96542e64301a08456144200c04c00d26') in 0.024712 seconds
+  Import took 0.033204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Height.tif
+  artifactKey: Guid(1c0d44c4e761653459dbec2e39672ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Height.tif using Guid(1c0d44c4e761653459dbec2e39672ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9f47eaeb29143a35729b12ee5d08cd') in 0.019609 seconds
+  Import took 0.026350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Normal.tif
+  artifactKey: Guid(ba636111ccf91df469cf93c2e9c9bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Normal.tif using Guid(ba636111ccf91df469cf93c2e9c9bb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6114c37ec654686bde4d9f4553f27d') in 0.028940 seconds
+  Import took 0.036505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffEdge01.fbx
+  artifactKey: Guid(04fa4995cb1cfcd4eb8dc1defa230c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffEdge01.fbx using Guid(04fa4995cb1cfcd4eb8dc1defa230c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf74c0eaccf68a53fe4c05014adfd4f') in 0.172908 seconds
+  Import took 0.188298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Materials/Ground_Mat.mat
+  artifactKey: Guid(61be5fb840b83854a95a1ef4982462cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Materials/Ground_Mat.mat using Guid(61be5fb840b83854a95a1ef4982462cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002e3218e809764068183be41b0c2870') in 0.133390 seconds
+  Import took 0.145603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffBig02.fbx
+  artifactKey: Guid(4c27bf02daa2a7248821d10516e3a864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Models/CliffBig02.fbx using Guid(4c27bf02daa2a7248821d10516e3a864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a722108deb4483950ebe74e749c3035') in 0.205477 seconds
+  Import took 0.214441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_Albedo.tif
+  artifactKey: Guid(c1db9d9d57601ac4a930c0af00135b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_Albedo.tif using Guid(c1db9d9d57601ac4a930c0af00135b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c2551828041a3339c815d296c6ecd8') in 0.025303 seconds
+  Import took 0.033675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffBig02_Mat.mat
+  artifactKey: Guid(bb85f42a6fb68ed4f8156a440dff2b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffBig02_Mat.mat using Guid(bb85f42a6fb68ed4f8156a440dff2b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a08f3d11ef7cd4ce8794694ff9f257a') in 0.052937 seconds
+  Import took 0.062490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Materials/Moss_Mat.mat
+  artifactKey: Guid(9f1e1e6c36df17a48b610353e7d0bc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Materials/Moss_Mat.mat using Guid(9f1e1e6c36df17a48b610353e7d0bc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7cc0186efea84243e3299e0d33018dc') in 0.117849 seconds
+  Import took 0.126156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Normal1.tif
+  artifactKey: Guid(0029a2ffb9c75794b8d16355e8ef09c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_Normal1.tif using Guid(0029a2ffb9c75794b8d16355e8ef09c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391cc1e9f1b8a329618e3bbb60820458') in 0.026656 seconds
+  Import took 0.038798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_Normals.tif
+  artifactKey: Guid(65b31c2bc8cf7bc4e9d09773ec9e1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_Normals.tif using Guid(65b31c2bc8cf7bc4e9d09773ec9e1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b2e164640256d802cb876ef3db35b5') in 0.041582 seconds
+  Import took 0.055117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_MetallicSmooth.tif
+  artifactKey: Guid(959fe93954fd6c349a6274a09ed4e1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Ground/Textures/Moss_MetallicSmooth.tif using Guid(959fe93954fd6c349a6274a09ed4e1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512f9db9faef8c500466d35d209f8872') in 0.013857 seconds
+  Import took 0.022091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge01_Mat.mat
+  artifactKey: Guid(6f0341037674d6f46bf972bcfd328255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge01_Mat.mat using Guid(6f0341037674d6f46bf972bcfd328255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b46ef42146eee97a86a40b1329f7797') in 0.053572 seconds
+  Import took 0.063222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_MetallicSmooth.tif
+  artifactKey: Guid(51ada4ba6b76219459e358a510c009dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Textures/CliffBig01_MetallicSmooth.tif using Guid(51ada4ba6b76219459e358a510c009dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7ff8041117ff3c92ac7665df295f70') in 0.017714 seconds
+  Import took 0.025274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.180171 seconds.
+  path: Assets/ExampleAssets/Models/Workbench_Low.fbx
+  artifactKey: Guid(46f48e5f14eff41f9add98c2a52817b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/Workbench_Low.fbx using Guid(46f48e5f14eff41f9add98c2a52817b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e26fc5a3bc82f3d93ee55dab3febed1') in 0.731586 seconds
+  Import took 0.743610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/ExampleAssets/Models/Brush.fbx
+  artifactKey: Guid(fa766811e30e19c40a7556c1fad9579c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/Brush.fbx using Guid(fa766811e30e19c40a7556c1fad9579c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961fcb65b2b6a7b3d954a17b4c233310') in 0.158736 seconds
+  Import took 0.175628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.662357 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge03_Mat.mat
+  artifactKey: Guid(30b0f587813f86c44b82c48c7733af87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge03_Mat.mat using Guid(30b0f587813f86c44b82c48c7733af87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834e935447c0c996bd9e2b1c100b7baa') in 0.163746 seconds
+  Import took 0.178617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge04_Mat.mat
+  artifactKey: Guid(dddb14a0dd9e90c4392af5b67f34ca7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/CliffEdge04_Mat.mat using Guid(dddb14a0dd9e90c4392af5b67f34ca7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848a84f83a444e3383c790bf86814286') in 0.204715 seconds
+  Import took 0.229665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/Ridge01_Mat.mat
+  artifactKey: Guid(c9fde8d2b739edb458fbb07e275f81d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Environment Pack/Environment/Rocks/Materials/Ridge01_Mat.mat using Guid(c9fde8d2b739edb458fbb07e275f81d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e4615eb6b1bafc510247171f4616e7') in 0.231734 seconds
+  Import took 0.264698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2213.376111 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(7883ce841b829b246824ffc4ed09a927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(7883ce841b829b246824ffc4ed09a927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02afed27f9b6297d5a801e5b2d69053b') in 0.018055 seconds
+  Import took 0.035707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.584737 seconds.
+  path: Assets/Scenes/Game3D.unity
+  artifactKey: Guid(7883ce841b829b246824ffc4ed09a927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game3D.unity using Guid(7883ce841b829b246824ffc4ed09a927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040ade12196c6a10a08e976daa00f58b') in 0.008986 seconds
+  Import took 0.024096 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
